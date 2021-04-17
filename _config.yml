@@ -15,9 +15,9 @@ timezone: Asia/Manila
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: @loumarven                       # the main title
+title: '@loumarven'                       # the main title
 
-tagline: Disciple. Husband. Dad. Dev. Learner.   # it will display as the sub-title
+tagline: Disciple. Husband. Dad. Dev. Learner. Under grace.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Loumarven's dev blog - a place where I record
